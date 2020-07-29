@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  color: #40514E;
+}
+.intro {
+  margin: auto;
+  width: 30%;
+}
+p {
+  line-height: 2;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.25rem;
+margin-top: 50px;
+font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Fredoka One', cursive;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #11999E;
+}
+.Profilepicture {
+  width: 15%;
+}
+.coffee-art {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.filming {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+hr {
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container {
+  background-color: #ccedd2;
+  position: relative;
+  padding-top: 100px;
+}
+.skills {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container
+ {
+margin: 100px; 0;
+ }
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 25px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+a {
+  color: #11999E;
+  font-family: 'montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.contact-me {
+  margin-bottom: 60px;
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.contact-me:hover {
+	background-color:#30e3cb;
+}.contact-me:active {
+	position:relative;
+	top:1px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
